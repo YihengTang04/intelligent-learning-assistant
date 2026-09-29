@@ -1,0 +1,105 @@
+{
+  "user_info": {
+    "total_nodes": 15,
+    "finished_nodes": 4
+  },
+  "learning_progress": [
+    {
+      "node_id": 1,
+      "status": "未学习",
+      "score": 0
+    },
+    {
+      "node_id": 2,
+      "status": "已学习",
+      "score": 80
+    },
+    {
+      "node_id": 3,
+      "status": "未学习",
+      "score": 0
+    },
+    {
+      "node_id": 4,
+      "status": "未学习",
+      "score": 0
+    },
+    {
+      "node_id": 5,
+      "status": "未学习",
+      "score": 0
+    },
+    {
+      "node_id": 6,
+      "status": "未学习",
+      "score": 0
+    },
+    {
+      "node_id": 7,
+      "status": "已学习",
+      "score": 80
+    },
+    {
+      "node_id": 8,
+      "status": "未学习",
+      "score": 0
+    },
+    {
+      "node_id": 9,
+      "status": "未学习",
+      "score": 0
+    },
+    {
+      "node_id": 10,
+      "status": "未学习",
+      "score": 0
+    },
+    {
+      "node_id": 11,
+      "status": "未学习",
+      "score": 0
+    },
+    {
+      "node_id": 12,
+      "status": "未学习",
+      "score": 0
+    },
+    {
+      "node_id": 13,
+      "status": "已学习",
+      "score": 80
+    },
+    {
+      "node_id": 14,
+      "status": "已学习",
+      "score": 80
+    },
+    {
+      "node_id": 15,
+      "status": "未学习",
+      "score": 0
+    }
+  ],
+  "error_record": [
+    {
+      "node_id": 6,
+      "error_times": 7,
+      "desc": "反向传播推导、激活函数梯度计算掌握薄弱"
+    },
+    {
+      "node_id": 8,
+      "error_times": 9,
+      "desc": "卷积核参数、池化操作、特征图尺寸计算理解不足"
+    },
+    {
+      "node_id": 9,
+      "error_times": 5,
+      "desc": "时序状态传递、RNN梯度问题知识点模糊"
+    },
+    {
+      "node_id": 11,
+      "error_times": 10,
+      "desc": "自注意力机制、掩码计算为主要薄弱环节"
+    }
+  ]
+}

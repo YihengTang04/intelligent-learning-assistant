@@ -1,0 +1,121 @@
+{
+  "user_info": {
+    "total_nodes": 15,
+    "finished_nodes": 2,
+    "last_study_date": "2026-06-11"
+  },
+  "learning_progress": [
+    {
+      "node_id": 1,
+      "status": "已学习",
+      "score": 80,
+      "study_times": 5,
+      "last_learn_time": "2026-06-11 09:03:25"
+    },
+    {
+      "node_id": 2,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 2,
+      "last_learn_time": "2026-06-10 23:01:39"
+    },
+    {
+      "node_id": 3,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 1,
+      "last_learn_time": "2026-06-10 22:41:08"
+    },
+    {
+      "node_id": 4,
+      "status": "已学习",
+      "score": 80,
+      "study_times": 1,
+      "last_learn_time": "2026-06-11 09:03:41"
+    },
+    {
+      "node_id": 5,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0
+    },
+    {
+      "node_id": 6,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 1,
+      "last_learn_time": "2026-06-10 22:47:11"
+    },
+    {
+      "node_id": 7,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 5,
+      "last_learn_time": "2026-06-10 22:46:51"
+    },
+    {
+      "node_id": 8,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0
+    },
+    {
+      "node_id": 9,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 2,
+      "last_learn_time": "2026-06-10 22:47:49"
+    },
+    {
+      "node_id": 10,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0
+    },
+    {
+      "node_id": 11,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0
+    },
+    {
+      "node_id": 12,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0
+    },
+    {
+      "node_id": 13,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0
+    },
+    {
+      "node_id": 14,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0
+    },
+    {
+      "node_id": 15,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0
+    }
+  ],
+  "error_record": [],
+  "study_log": [
+    {
+      "opt_time": "2026-06-10 22:40:56",
+      "opt_node": "Python基础",
+      "new_score": 80,
+      "opt_type": "标记已学习"
+    },
+    {
+      "opt_time": "2026-06-10 22:41:08",
+      "opt_node": "Pandas数据处理",
+      "new_score": 80,
+      "opt_type": "标记已学习"
+    }
+  ]
+}

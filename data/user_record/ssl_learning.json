@@ -1,0 +1,106 @@
+{
+  "user_info": {
+    "total_nodes": 15,
+    "finished_nodes": 5,
+    "last_study_date": "2026-06-10"
+  },
+  "learning_progress": [
+    {
+      "node_id": 1,
+      "status": "已学习",
+      "score": 80,
+      "study_times": 1,
+      "last_learn_time": "2026-06-10 22:51:05"
+    },
+    {
+      "node_id": 2,
+      "status": "已学习",
+      "score": 80,
+      "study_times": 1,
+      "last_learn_time": "2026-06-10 22:51:09"
+    },
+    {
+      "node_id": 3,
+      "status": "已学习",
+      "score": 80,
+      "study_times": 1,
+      "last_learn_time": "2026-06-10 22:51:12"
+    },
+    {
+      "node_id": 4,
+      "status": "已学习",
+      "score": 80,
+      "study_times": 1,
+      "last_learn_time": "2026-06-10 22:51:14"
+    },
+    {
+      "node_id": 5,
+      "status": "已学习",
+      "score": 80,
+      "study_times": 2,
+      "last_learn_time": "2026-06-10 22:51:23"
+    },
+    {
+      "node_id": 6,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0
+    },
+    {
+      "node_id": 7,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0
+    },
+    {
+      "node_id": 8,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0
+    },
+    {
+      "node_id": 9,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0
+    },
+    {
+      "node_id": 10,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0
+    },
+    {
+      "node_id": 11,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0
+    },
+    {
+      "node_id": 12,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0
+    },
+    {
+      "node_id": 13,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0
+    },
+    {
+      "node_id": 14,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0
+    },
+    {
+      "node_id": 15,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0
+    }
+  ],
+  "error_record": [],
+  "study_log": []
+}

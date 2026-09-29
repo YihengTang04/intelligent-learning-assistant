@@ -1,0 +1,44 @@
+{
+  "1": {
+    "name": "Python基础",
+    "code": "# 循环与函数示例\ndef calc_sum(n):\n    total = 0\n    for i in range(n):\n        total += i\n    return total\nprint(calc_sum(100))",
+    "case": "循环遍历、自定义函数、条件判断综合案例",
+    "exercise": "1. 编写函数判断质数 2. 使用列表推导式生成序列"
+  },
+  "2": {
+    "name": "NumPy数值计算",
+    "code": "import numpy as np\n# 创建数组与矩阵运算\narr = np.array([[1,2],[3,4]])\nprint(arr * 2)\nprint(np.sum(arr))",
+    "case": "数组创建、矩阵四则运算、维度变换案例",
+    "exercise": "1. 实现矩阵转置 2. 计算数组均值与方差"
+  },
+  "3": {
+    "name": "Pandas数据处理",
+    "code": "import pandas as pd\ndf = pd.DataFrame({'A':[1,2,3],'B':[4,5,6]})\nprint(df.describe())",
+    "case": "DataFrame创建、数据统计、空值清洗案例",
+    "exercise": "1. 读取csv文件 2. 按条件筛选数据行"
+  },
+  "6": {
+    "name": "神经网络基础",
+    "code": "import torch\n# 简单神经元计算\nx = torch.tensor([1.0,2.0])\nw = torch.tensor([0.5,0.8])\ny = torch.sum(x * w)\nprint(y)",
+    "case": "单层神经元加权求和、激活函数调用案例",
+    "exercise": "1. 手动实现Sigmoid激活函数 2. 模拟简单前向传播"
+  },
+  "8": {
+    "name": "卷积神经网络CNN",
+    "code": "import torch.nn as nn\n# 简易卷积层\nconv = nn.Conv2d(in_channels=3, out_channels=16, kernel_size=3, padding=1)\nprint(conv)",
+    "case": "卷积层、池化层堆叠搭建简单图像网络",
+    "exercise": "1. 搭建3层卷积网络 2. 调整卷积核大小观察输出变化"
+  },
+  "9": {
+    "name": "循环神经网络RNN",
+    "code": "import torch.nn as nn\nrnn = nn.RNN(input_size=10, hidden_size=20, num_layers=1)\nprint(rnn)",
+    "case": "基础RNN网络定义、序列输入处理案例",
+    "exercise": "1. 理解隐藏层状态传递 2. 改写为双向RNN"
+  },
+  "11": {
+    "name": "Transformer架构",
+    "code": "import torch.nn as nn\n# 自注意力模块简易演示\nattn = nn.MultiheadAttention(embed_dim=64, num_heads=8)\nprint(attn)",
+    "case": "多头自注意力计算、编码层结构演示",
+    "exercise": "1. 理解注意力权重 2. 梳理Transformer整体结构"
+  }
+}

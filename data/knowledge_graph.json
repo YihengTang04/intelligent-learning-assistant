@@ -1,0 +1,38 @@
+{
+  "knowledge_nodes": [
+    {"id": 1, "name": "Python基础", "level": "基础理论", "desc": "变量、循环、函数、面向对象，深度学习必备编程基础"},
+    {"id": 2, "name": "NumPy数值计算", "level": "基础理论", "desc": "多维数组、矩阵运算、广播机制，科学计算核心库"},
+    {"id": 3, "name": "Pandas数据处理", "level": "基础理论", "desc": "表格数据读取、清洗、筛选、特征构造"},
+    {"id": 4, "name": "Matplotlib数据可视化", "level": "基础理论", "desc": "折线图、直方图、热力图，数据结果展示"},
+    {"id": 5, "name": "机器学习基础", "level": "基础理论", "desc": "监督学习、无监督学习、损失函数基本概念"},
+    {"id": 6, "name": "神经网络基础", "level": "进阶模型", "desc": "神经元、激活函数、前向传播、反向传播原理"},
+    {"id": 7, "name": "优化器与正则化", "level": "进阶模型", "desc": "SGD、Adam、Dropout、L1/L2正则防止过拟合"},
+    {"id": 8, "name": "卷积神经网络CNN", "level": "进阶模型", "desc": "卷积核、池化层、局部感受野，图像任务主流模型"},
+    {"id": 9, "name": "循环神经网络RNN", "level": "进阶模型", "desc": "时序依赖建模，适用于文本、语音序列数据"},
+    {"id": 10, "name": "LSTM与GRU", "level": "进阶模型", "desc": "改进RNN，解决长序列梯度消失问题"},
+    {"id": 11, "name": "Transformer架构", "level": "进阶模型", "desc": "自注意力机制，NLP与CV通用大模型基础"},
+    {"id": 12, "name": "图像分类实战", "level": "项目实战", "desc": "基于CNN实现猫狗图像二分类项目"},
+    {"id": 13, "name": "目标检测实战", "level": "项目实战", "desc": "基于基础卷积网络实现简单目标框检测"},
+    {"id": 14, "name": "文本情感分析实战", "level": "项目实战", "desc": "基于LSTM实现影评正负情感判别"},
+    {"id": 15, "name": "简易机器翻译实战", "level": "项目实战", "desc": "基于Transformer实现短句中英互译"}
+  ],
+  "knowledge_edges": [
+    {"source": 1, "target": 2, "relation": "前置依赖"},
+    {"source": 2, "target": 3, "relation": "前后衔接"},
+    {"source": 3, "target": 4, "relation": "前后衔接"},
+    {"source": 4, "target": 5, "relation": "前后衔接"},
+    {"source": 5, "target": 6, "relation": "前置依赖"},
+    {"source": 6, "target": 7, "relation": "前后衔接"},
+    {"source": 6, "target": 8, "relation": "前置依赖"},
+    {"source": 6, "target": 9, "relation": "前置依赖"},
+    {"source": 9, "target": 10, "relation": "进阶拓展"},
+    {"source": 10, "target": 11, "relation": "进阶拓展"},
+    {"source": 8, "target": 12, "relation": "前置依赖"},
+    {"source": 8, "target": 13, "relation": "前置依赖"},
+    {"source": 10, "target": 14, "relation": "前置依赖"},
+    {"source": 11, "target": 15, "relation": "前置依赖"},
+    {"source": 8, "target": 9, "relation": "并列关系"},
+    {"source": 12, "target": 13, "relation": "并列关系"},
+    {"source": 14, "target": 15, "relation": "递进关系"}
+  ]
+}

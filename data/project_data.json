@@ -1,0 +1,52 @@
+{
+  "12": {
+    "project_name": "图像分类实战",
+    "core_knowledge": ["卷积神经网络CNN", "神经网络基础"],
+    "param_compare": {
+      "kernel=3": "特征提取细腻，图像细节保留好，整体精度偏高",
+      "kernel=5": "感受野更大，全局特征更强，计算速度明显下降"
+    },
+    "model_effect": {
+      "简易CNN": "测试准确率 73%",
+      "加深CNN": "测试准确率 87%",
+      "CNN+Dropout": "测试准确率 84%，泛化能力提升"
+    }
+  },
+  "13": {
+    "project_name": "目标检测实战",
+    "core_knowledge": ["卷积神经网络CNN", "优化器与正则化"],
+    "param_compare": {
+      "learning_rate=0.01": "训练收敛快，容易震荡不收敛",
+      "learning_rate=0.001": "训练平稳，收敛速度较慢"
+    },
+    "model_effect": {
+      "基础卷积检测": "检测精度 65%",
+      "多尺度卷积检测": "检测精度 78%"
+    }
+  },
+  "14": {
+    "project_name": "文本情感分析实战",
+    "core_knowledge": ["循环神经网络RNN", "LSTM与GRU"],
+    "param_compare": {
+      "hidden_size=32": "模型简单，不易过拟合，表达能力有限",
+      "hidden_size=128": "特征表达更强，长文本效果更好，易过拟合"
+    },
+    "model_effect": {
+      "基础RNN": "准确率 71%",
+      "单层LSTM": "准确率 83%",
+      "双层LSTM": "准确率 86%"
+    }
+  },
+  "15": {
+    "project_name": "简易机器翻译实战",
+    "core_knowledge": ["Transformer架构", "LSTM与GRU"],
+    "param_compare": {
+      "num_heads=4": "计算量小，短句翻译效果尚可",
+      "num_heads=8": "多头注意力更充分，长句翻译更准确"
+    },
+    "model_effect": {
+      "简易Transformer": "翻译通顺度一般",
+      "完整Transformer": "翻译语义连贯，错误较少"
+    }
+  }
+}

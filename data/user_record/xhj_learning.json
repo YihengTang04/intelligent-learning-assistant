@@ -1,0 +1,84 @@
+{
+  "user_info": {
+    "total_nodes": 15,
+    "finished_nodes": 0
+  },
+  "learning_progress": [
+    {
+      "node_id": 1,
+      "status": "未学习",
+      "score": 0
+    },
+    {
+      "node_id": 2,
+      "status": "未学习",
+      "score": 0
+    },
+    {
+      "node_id": 3,
+      "status": "未学习",
+      "score": 0
+    },
+    {
+      "node_id": 4,
+      "status": "未学习",
+      "score": 0
+    },
+    {
+      "node_id": 5,
+      "status": "未学习",
+      "score": 0
+    },
+    {
+      "node_id": 6,
+      "status": "未学习",
+      "score": 0
+    },
+    {
+      "node_id": 7,
+      "status": "未学习",
+      "score": 0
+    },
+    {
+      "node_id": 8,
+      "status": "未学习",
+      "score": 0
+    },
+    {
+      "node_id": 9,
+      "status": "未学习",
+      "score": 0
+    },
+    {
+      "node_id": 10,
+      "status": "未学习",
+      "score": 0
+    },
+    {
+      "node_id": 11,
+      "status": "未学习",
+      "score": 0
+    },
+    {
+      "node_id": 12,
+      "status": "未学习",
+      "score": 0
+    },
+    {
+      "node_id": 13,
+      "status": "未学习",
+      "score": 0
+    },
+    {
+      "node_id": 14,
+      "status": "未学习",
+      "score": 0
+    },
+    {
+      "node_id": 15,
+      "status": "未学习",
+      "score": 0
+    }
+  ],
+  "error_record": []
+}

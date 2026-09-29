@@ -1,0 +1,117 @@
+{
+  "user_info": {
+    "total_nodes": 15,
+    "finished_nodes": 0,
+    "learn_score_avg": 0.0,
+    "last_study_date": "2026-06-06"
+  },
+  "learning_progress": [
+    {
+      "node_id": 1,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0,
+      "last_learn_time": ""
+    },
+    {
+      "node_id": 2,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0,
+      "last_learn_time": ""
+    },
+    {
+      "node_id": 3,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0,
+      "last_learn_time": ""
+    },
+    {
+      "node_id": 4,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0,
+      "last_learn_time": ""
+    },
+    {
+      "node_id": 5,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0,
+      "last_learn_time": ""
+    },
+    {
+      "node_id": 6,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0,
+      "last_learn_time": ""
+    },
+    {
+      "node_id": 7,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0,
+      "last_learn_time": ""
+    },
+    {
+      "node_id": 8,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0,
+      "last_learn_time": ""
+    },
+    {
+      "node_id": 9,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0,
+      "last_learn_time": ""
+    },
+    {
+      "node_id": 10,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0,
+      "last_learn_time": ""
+    },
+    {
+      "node_id": 11,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0,
+      "last_learn_time": ""
+    },
+    {
+      "node_id": 12,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0,
+      "last_learn_time": ""
+    },
+    {
+      "node_id": 13,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0,
+      "last_learn_time": ""
+    },
+    {
+      "node_id": 14,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0,
+      "last_learn_time": ""
+    },
+    {
+      "node_id": 15,
+      "status": "未学习",
+      "score": 0,
+      "study_times": 0,
+      "last_learn_time": ""
+    }
+  ],
+  "error_record": [],
+  "study_log": []
+}
